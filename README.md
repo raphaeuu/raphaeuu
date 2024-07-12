@@ -6,28 +6,37 @@
 <br>
 
 
-<div align= "center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=raphaeuu&theme=nordfox&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<h4 align="center">Estudando no momento:</h4>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+</div>
+
+###
+
+<h4 align="center">Status:</h4>
+
+###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=raphaeuu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raphaeuu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raphaeuu&radius=16&theme=tokyo-night&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
-<br>
 
-</div>
-<br>
+###
 
-<div align="center"> 
-<a href="mailto:raphahenrique2808@gmail.com">
-<img align="center"  height="60" width="60" src="https://github.com/raphaeuu/raphaeuu/assets/84981366/4f6840c8-a5fe-4b1a-b5db-b60910e7c6aa">
-</a>
+###
 
-
-<a  href="https://www.linkedin.com/in/raphael-monteiro-48897b193/" target=_blank>
-<img align="center"  height="60" width="60" src="https://github.com/raphaeuu/raphaeuu/assets/84981366/c49e93cc-3005-499d-8516-82388ba178cc">
-</a>
+<h4 align="center">Contribuições:</h4>
 
 </div>
 
@@ -35,20 +44,18 @@
    
 ![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/raphaeuu?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=blue) 
 
-</div>
 
-
-
-<h2 align="left"> Studying in this moment: </h2>
-
-<div align="left"> 
-
-<img align="left"  height="80" width="80" src="https://github.com/raphaeuu/raphaeuu/assets/84981366/1103530a-ea70-4184-85f4-3598cc5d3a68">
-
-<img align="left"  height="80" width="80" src="https://github.com/raphaeuu/raphaeuu/assets/84981366/41b7ab79-d94b-42f9-a242-89e0f970dfba">
-
-<img align="left"  height="80" width="80" src="https://github.com/raphaeuu/raphaeuu/assets/84981366/a4522700-c1d9-448a-be68-3f4522dced01">
+<h4 align="center">Social Media:</h4>
 
 </div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/raphael-monteiro-48897b193/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
 
 
